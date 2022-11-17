@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    margin:0;
+    padding:0;
+}
+
+#div-main {
+    position:relative;
+    height: 100%;
+    width:100%;
+}
+
+#div-main img {
+    width: 0.75vw;
+    height: auto;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+}
